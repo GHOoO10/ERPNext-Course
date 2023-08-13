@@ -1,0 +1,16 @@
+SOLID is an acronym that represents a set of design principles for writing clean, maintainable, 
+and scalable object-oriented code. It was introduced by Robert C. Martin (also known as Uncle Bob) 
+as a guideline to promote software design that is easy to understand, flexible, and robust. 
+Each letter in the SOLID acronym represents a specific principle:
+1)	Single Responsibility Principle (SRP): A class should have only one responsibility.
+2)	Open-Closed Principle (OCP): Objects should be open for extension but closed for modification.
+3)	Liskov Substitution Principle (LSP): Subtypes must be substitutable for their base types.
+4)	Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use.
+5)	Dependency Inversion Principle (DIP): High-level modules should depend on abstractions rather than low-level details.
+The adherence to SOLID principles in software design provides several key benefits:
+	Scalability and Flexibility.
+	Ease of Maintenance.
+	Reusability.
+	Testability.
+	Team Alignment and Collaboration.
+In general, adhering to SOLID principles helps create clean, organized, and flexible software design, improving code quality, ease of maintenance, and development in the long run.
