@@ -1,2 +1,2 @@
-# Lecture_Projects
-Applied Projects required during lectures to learn the ERP Next system
+# ERP Next Course
+All files of the ERP Next course, Sana'a University, College of Computer - for graduation projects
